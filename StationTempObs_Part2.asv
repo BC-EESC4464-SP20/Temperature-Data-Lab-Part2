@@ -1,10 +1,7 @@
 %% Add a comment at the top with the names of all members of your group
 
 %% 1a. Add all needed folders to your MATLAB path
-% --> use "addpath" to add the "model_data" folder from the Part 2
-% repository (this repository)
-% --> use "addpath" to add the "ObsData" folder from the Part 1
-% repository
+% --> use the "addpath"
 
 %% 1b. Load in a list of all 18 stations and their corresponding latitudes and longitudes
 load GlobalStationsLatLon.mat
